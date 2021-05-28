@@ -119,5 +119,5 @@
     "*.{js,jsx}": "eslint --fix",
     "*.{js,jsx,json,html,css,md}": "prettier --write"
   },
-  "homepage": "https://shinsehantan.github.io/react-subway-map"
+  "homepage": "https://bigsaigon333.github.io/react-subway-map"
 }
